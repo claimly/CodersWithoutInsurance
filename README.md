@@ -1,4 +1,4 @@
-# BreakTheBlock Hackathon Team Coders without Insurance
+# BreakTheBlock Blockchain and Cryptocurrency Hackathon Team "Coders without Insurance" by This Place
 
 ## Insure your Event
 
