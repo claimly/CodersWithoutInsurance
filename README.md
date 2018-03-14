@@ -1,5 +1,7 @@
 # BreakTheBlock Blockchain and Cryptocurrency Hackathon Team "Coders without Insurance" by This Place
 
+[Presentation](https://www.slideshare.net/thisplacestudio/this-place-breaktheblock-2017-hackathon-concept)
+
 ## Insure your Event
 
 Problem statement: 
